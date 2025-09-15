@@ -34,6 +34,6 @@ To view this project:
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YourUsername/python-screening-task3.git
+   git clone https://github.com/Pritam216/python-screening-task3.git
    cd python-screening-task3
    ```
