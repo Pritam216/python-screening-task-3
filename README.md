@@ -1,4 +1,8 @@
 # Python Screening Task 3 – Research Plan
+
+This repository contains my research plan for **Python Screening Task 3: Evaluating Open Source Models for Student Competence Analysis**.  
+The goal of this task is to explore open-source AI models and evaluate their potential to analyze Python code, identify misconceptions, generate meaningful prompts, and support deeper student learning.  
+
 ## Research Plan
 
 My approach to evaluate open-source models that can be used to analyze student competence in Python. My focus will be on models that don’t just check code correctness but also give meaningful feedback to help students learn better. I’ll start with models trained specifically on code, such as **CodeLlama-7B-Python**, and compare them with educational tools like Open Education Analytics. To test their usefulness, I’ll create a dataset of Python code covering beginner to advanced levels, including intentional mistakes (syntax errors, logic bugs, and common misconceptions like variable scope issues or incorrect loops). Each model will be judged on how well it </br> 
