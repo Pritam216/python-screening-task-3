@@ -1,7 +1,7 @@
-### Python Screening Task 3 – Research Plan
+# Python Screening Task 3 – Research Plan
 ## Research Plan
 
-My approach to evaluating open-source models for student competence analysis in Python will focus on systematically identifying and testing models that can analyze code and generate meaningful feedback. I will begin by exploring open-source language models trained for code understanding, such as **CodeLlama-7B-Python**, and compare them with educational analytics frameworks like **Open Education Analytics**. To test their applicability, I will use a curated dataset of Python code samples representing beginner to advanced levels, including intentional mistakes (syntax errors, logical bugs, and common misconceptions such as variable scope confusion or faulty loops). The models will be evaluated on their ability to 
+My approach to evaluating open-source models for student competence analysis in Python will focus on systematically identifying and testing models that can analyze code and generate meaningful feedback. I will begin by exploring open-source language models trained for code understanding, such as **CodeLlama-7B-Python**, and compare them with educational analytics frameworks like **Open Education Analytics**. To test their applicability, I will use a curated dataset of Python code samples representing beginner to advanced levels, including intentional mistakes (syntax errors, logical bugs, and common misconceptions such as variable scope confusion or faulty loops). The models will be evaluated on their ability to </br>
 (1) analyze Python code structurally and semantically, 
 (2) generate prompts that probe conceptual understanding rather than surface-level syntax, 
 (3) identify reasoning gaps and misconceptions, and 
