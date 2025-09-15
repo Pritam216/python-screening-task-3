@@ -8,8 +8,6 @@ My approach to evaluate open-source models that can be used to analyze student c
 (4) provides feedback that encourages deeper learning without simply handing out solutions. 
 For validation, I’ll benchmark using datasets like HumanEval-Python and also ask experts to review the generated prompts through the lens of **Bloom’s taxonomy**.
 
-A good model for competence analysis should go beyond syntax checking — it needs to understand the logic behind code, recognize common student mistakes, explain why they happen, and give feedback that fits the learner’s level. To check if a model produces meaningful prompts, I would look at whether the prompts target higher-order thinking skills (using Bloom’s taxonomy), address known misconceptions, increase in difficulty step by step, and feel relevant to real learning goals (as judged by teachers). Of course, there are trade-offs: large models are usually more accurate but expensive to run, while smaller models are cheaper and easier to interpret but might miss subtle errors. I chose **CodeLlama-7B-Python** as my primary candidate because it offers a good balance — it’s trained specifically on Python, open-source and customizable, and doesn’t need massive computing power. Its strengths are clear focus on Python and accessibility, while its weaknesses include less awareness of teaching methods and some inconsistency compared to larger models. These can be improved by fine-tuning and pairing it with tools like DeepEval to maintain consistency in assessments.
-
 ---
 
 ## Reasoning  
