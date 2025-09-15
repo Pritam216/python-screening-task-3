@@ -38,12 +38,13 @@ To view this project:
    cd python-screening-task3
    ```
  ---
-## References
+## References  
 
-Code Llama (Meta) – https://huggingface.co/codellama
-HumanEval Dataset (OpenAI) – https://github.com/openai/human-eval
-DeepEval: Evaluation Framework – https://github.com/confident-ai/deepeval
-Bloom’s Taxonomy Overview (Vanderbilt University) – https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/
-Educational Data Mining Society – https://educationaldatamining.org/
-scikit-learn: Machine Learning in Python – https://scikit-learn.org/stable/
+- [Code Llama (Meta)](https://huggingface.co/codellama)  
+- [HumanEval Dataset (OpenAI)](https://github.com/openai/human-eval)  
+- [DeepEval: Evaluation Framework](https://github.com/confident-ai/deepeval)  
+- [Bloom’s Taxonomy Overview (Vanderbilt University)](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)  
+- [Educational Data Mining Society](https://educationaldatamining.org/)  
+- [scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)  
+
  ---
